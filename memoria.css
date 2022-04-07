@@ -21,7 +21,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background: url(../trabalho.grupo/img/fun.png);
+    background: url(./img/fun.png);
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
     justify-content: center;
